@@ -1,0 +1,34 @@
+
+body{
+font-family: sans-serif;on
+padding: 10px;
+text-align: center;
+background-image: url(Fondo.Png);
+}
+
+h1,h2,h4
+{
+	text-align: left;
+	text-decoration-style: none;
+}
+a{
+	text-decoration: none;
+}
+img{
+width:100px;
+height: 100px;
+float: right;
+}
+}
+header{
+		text-align: left;
+	text-decoration: none;
+}
+table{
+	display: flex;
+	justify-content: left;
+	align-content: center;
+}
+input{
+	background-color: #757575;
+}
